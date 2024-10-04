@@ -10,13 +10,14 @@ header{
     padding: 7px;
 }
 .left{
-    background-color: #efa9a9;
-    width: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #E1BEE7;
+    width: 25%;
     height: 500px;
 }
 .right{
-    background-color: #efa9a9;
-    width: 20%;
+    background-color: #E1BEE7;
+    width: 25%;
     height: 500px;
 }
 .center{
